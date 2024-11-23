@@ -17,13 +17,13 @@ Me chamo Rayanne Scanholato, tenho 18 anos e sou natural de São Paulo. Estou co
    <a href="https://github.com/RayanneScanholato?tab=followers" target="_blank">
       <img 
          alt="followers" 
-         title="Siga-me no GitHub" 
+         title="Follow me on Github" 
          src="https://custom-icon-badges.demolab.com/github/followers/RayanneScanholato?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&-add&label=Followers&logoColor=white" />
    </a>
    <a href="https://github.com/RayanneScanholato?tab=repositories&sort=stargazers" target="_blank">
       <img 
          alt="total stars" 
-         title="Total stars no GitHub" 
+         title="Total stars on GitHub" 
          src="https://custom-icon-badges.demolab.com/github/stars/RayanneScanholato?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
    </a>
 </p>
@@ -31,22 +31,22 @@ Me chamo Rayanne Scanholato, tenho 18 anos e sou natural de São Paulo. Estou co
 ---
 
 ### 🧰 Languages and Tools
-<div align="center">
-   <img align="center" alt="HTML" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img align="center" alt="CSS" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img align="center" alt="JavaScript" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="PHP" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-   <img align="center" alt="C#" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img align="center" alt="Bootstrap" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img align="center" alt="MySQL" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="Git" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="Linux" width="30px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<div style="text-align: center;">
+   <img align="center" alt="HTML" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img align="center" alt="CSS" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img align="center" alt="JavaScript" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img align="center" alt="PHP" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+   <img align="center" alt="C#" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+   <img align="center" alt="Bootstrap" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+   <img align="center" alt="MySQL" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Git" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   <img align="center" alt="Linux" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ---
 
 ### 📊 Stats
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=RayanneScanholato&show_icons=true&theme=tokyonight&include_all_commits-true" />
    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneScanholato&theme=tokyonight&layout=compact&langs_count=12" />
 </div>
