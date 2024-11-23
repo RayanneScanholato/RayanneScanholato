@@ -5,25 +5,25 @@ Me chamo Rayanne Scanholato, tenho 18 anos e sou natural de São Paulo. Estou co
    <a href="https://www.instagram.com/rayannescanholato/?next=%2F" target="_blank">
       <img 
          alt="Instagram" 
-         title="Siga-me no Instagram"
+         title="Follow me on Instagram"
          src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white" />
    </a> 
    <a href="https://www.linkedin.com/in/rayannescanholato/" target="_blank">
       <img 
          alt="LinkedIn" 
-         title="Conecte-se comigo no LinkedIn"
+         title="Connect with me on LinkedIn"
          src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a href="https://github.com/RayanneScanholato?tab=followers" target="_blank">
       <img 
          alt="followers" 
-         title="Follow me on Github" 
+         title="Follow me on Github"
          src="https://custom-icon-badges.demolab.com/github/followers/RayanneScanholato?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&-add&label=Followers&logoColor=white" />
    </a>
    <a href="https://github.com/RayanneScanholato?tab=repositories&sort=stargazers" target="_blank">
       <img 
          alt="total stars" 
-         title="Total stars on GitHub" 
+         title="Total stars on GitHub"
          src="https://custom-icon-badges.demolab.com/github/stars/RayanneScanholato?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
    </a>
 </p>
@@ -50,6 +50,8 @@ Me chamo Rayanne Scanholato, tenho 18 anos e sou natural de São Paulo. Estou co
    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=RayanneScanholato&show_icons=true&theme=tokyonight&include_all_commits-true" />
    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneScanholato&theme=tokyonight&layout=compact&langs_count=12" />
 </div>
+
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayanneScanholato/RayanneScanholato/output/github-contribution-grid-snake-dark.svg">
