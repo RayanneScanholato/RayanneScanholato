@@ -1,4 +1,5 @@
 # 👩🏽‍💻 Rayanne Scanholato 
+**´Desenvolvedora Web`**
 Me chamo Rayanne Scanholato, tenho 18 anos e sou natural de São Paulo. Estou concluindo o ensino médio este ano e sou formada como Técnica em Informática pelo SENAC. Sou apaixonada por tecnologia e estou em constante evolução, sempre buscando aprender e me desenvolver na área.
 
 <p align="left">
@@ -40,7 +41,6 @@ Me chamo Rayanne Scanholato, tenho 18 anos e sou natural de São Paulo. Estou co
    <img align="center" alt="Bootstrap" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
    <img align="center" alt="MySQL" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Git" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-   <img align="center" alt="Linux" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
 
 ---
