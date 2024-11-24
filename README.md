@@ -1,5 +1,7 @@
 # 👩🏽‍💻 Rayanne Scanholato 
-**´Desenvolvedora Web`**
+
+**`Desenvolvedora Web`**
+
 Me chamo Rayanne Scanholato, tenho 18 anos e sou natural de São Paulo. Estou concluindo o ensino médio este ano e sou formada como Técnica em Informática pelo SENAC. Sou apaixonada por tecnologia e estou em constante evolução, sempre buscando aprender e me desenvolver na área.
 
 <p align="left">
