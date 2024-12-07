@@ -1,6 +1,7 @@
 # 👩🏽‍💻 Rayanne Scanholato 
 
 **`Web Developer`**
+
 Olá! Me chamo Rayanne Scanholato, tenho 18 anos e sou apaixonada por tecnologia. Estou sempre em busca de novos aprendizados e desafios para evoluir na área. Adoro transformar ideias em soluções criativas! 🚀
 
 <p align="left">
