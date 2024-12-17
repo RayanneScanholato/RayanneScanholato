@@ -52,3 +52,11 @@ Olá! Me chamo Rayanne Scanholato, tenho 18 anos e sou apaixonada por tecnologia
    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=RayanneScanholato&show_icons=true&theme=tokyonight&include_all_commits-true" />
    <img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneScanholato&theme=tokyonight&layout=compact&langs_count=12" />
 </div>
+
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayanneScanholato/RayanneScanholato/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayanneScanholato/RayanneScanholato/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RayanneScanholato/RayanneScanholato/output/github-contribution-grid-snake.svg">
+</picture>
