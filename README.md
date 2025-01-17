@@ -5,12 +5,6 @@
 Olá! Me chamo Rayanne Scanholato, tenho 18 anos e sou apaixonada por tecnologia. Estou sempre em busca de novos aprendizados e desafios para evoluir na área. Adoro transformar ideias em soluções criativas! 🚀
 
 <p align="left">
-   <a href="https://www.instagram.com/rayannescanholato/?next=%2F" target="_blank">
-      <img 
-         alt="Instagram" 
-         title="Follow me on Instagram"
-         src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white" />
-   </a> 
    <a href="https://www.linkedin.com/in/rayannescanholato/" target="_blank">
       <img 
          alt="LinkedIn" 
